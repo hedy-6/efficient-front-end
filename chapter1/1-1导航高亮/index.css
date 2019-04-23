@@ -1,0 +1,9 @@
+nav li{
+    opacity: 0.5;
+}
+nav li:hover{
+    opacity: 1;
+}
+body.home nav li.home,body.about nav li.about{
+    opacity: 1;
+}
